@@ -1,6 +1,17 @@
 ![Banner](image/banner.png)
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xStrikea&show_icons=true&theme=tokyonight&line_height=27">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xStrikea&theme=radical">
-</p>
+<div align="center">
+
+# Code and functions used
+
+![Luau 5.1](https://img.shields.io/badge/Luau-5.1-red?logo=lua)
+![GUI](https://img.shields.io/badge/GUI-luau5.1-green?logo=lua)
+![Physics](https://img.shields.io/badge/Physics-luau5.1-green?logo=lua)
+![BindableEvent](https://img.shields.io/badge/BindableEvent-luau5.1-green?logo=lua)
+![RemoteEvent](https://img.shields.io/badge/RemoteEvent-luau5.1-green?logo=lua)
+![Pathfinding](https://img.shields.io/badge/Pathfinding-luau5.1-green?logo=lua)
+![Sound](https://img.shields.io/badge/Sound-luau5.1-green?logo=lua)
+![DataStore](https://img.shields.io/badge/DataStore-luau5.1-green?logo=lua)
+![Image](https://img.shields.io/badge/Image-luau5.1-green?logo=lua)
+
+</div>
