@@ -2,10 +2,10 @@
 ---
 Hi, I'm xSpecter. I make scripts for the Luau executor. All my scripts are stored in the xTitanium repository.
 ---
-<div align="center">
+<div align="center">  
+  
+Functions that I might use when making scripts:  
 
-Functions that I might use when making scripts:
-![Luau 5.1](https://img.shields.io/badge/Luau-5.1-red?logo=lua)
 ![GUI](https://img.shields.io/badge/GUI-luau5.1-green?logo=lua)
 ![Physics](https://img.shields.io/badge/Physics-luau5.1-green?logo=lua)
 ![BindableEvent](https://img.shields.io/badge/BindableEvent-luau5.1-green?logo=lua)
@@ -14,5 +14,5 @@ Functions that I might use when making scripts:
 ![Sound](https://img.shields.io/badge/Sound-luau5.1-green?logo=lua)
 ![DataStore](https://img.shields.io/badge/DataStore-luau5.1-green?logo=lua)
 ![Image](https://img.shields.io/badge/Image-luau5.1-green?logo=lua)
-
-</div>
+  
+</div>  
