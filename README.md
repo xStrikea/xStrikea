@@ -1,9 +1,10 @@
 ![Banner](image/banner.png)
 ---
+Hi, I'm xSpecter. I make scripts for the Luau executor. All my scripts are stored in the xTitanium repository.
+---
 <div align="center">
 
-# Code and functions used
-
+Functions that I might use when making scripts:
 ![Luau 5.1](https://img.shields.io/badge/Luau-5.1-red?logo=lua)
 ![GUI](https://img.shields.io/badge/GUI-luau5.1-green?logo=lua)
 ![Physics](https://img.shields.io/badge/Physics-luau5.1-green?logo=lua)
