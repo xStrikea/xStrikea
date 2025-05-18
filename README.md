@@ -1,4 +1,4 @@
-![Banner](image/banner.jpg)
+![Banner](image/Banner.jpg)
 <h1 align="center">Hi, I'm xStrikea!</h1>
 
 <p align="center">
