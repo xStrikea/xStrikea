@@ -53,11 +53,17 @@
 
 <p align="left">
   <a href="https://discord.com/users/1038054995389599775">
-    <img src="https://img.shields.io/badge/Discord-xStrikea%239757-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-xStrikea%239757-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="https://xStrikea.github.io/roblox">
-    <img src="https://img.shields.io/badge/roblox-xSpecter-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/roblox-xSpecter-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
 ---
+
+## 1️⃣ One of my work
+
+<div align="center">
+<img src="image/work.png"/>
+</div>
