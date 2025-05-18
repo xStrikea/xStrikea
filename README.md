@@ -52,11 +52,11 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://discord.com/users/your-discord-id">
-    <img src="https://img.shields.io/badge/Discord-xStrikea%230000-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://discord.com/users/1038054995389599775">
+    <img src="https://img.shields.io/badge/Discord-xStrikea%239757-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://your-website.com">
-    <img src="https://img.shields.io/badge/Website-Visit-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://xStrikea.github.io/roblox">
+    <img src="https://img.shields.io/badge/roblox-xSpecter-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
