@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-88CE02?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ---
@@ -37,7 +37,7 @@
 | Project            | Description                                             | Status   |
 |--------------------|---------------------------------------------------------|----------|
 | **Super Ring Parts** | Physics-based Roblox tool with GUI control            | ✅ Active |
-| **Script Playground** | ScriptBlox API integration + draggable GUI playground | ⚙️ Building |
+| **Godmode** | Makes the player invincible | ⚙️ Building |
 
 ---
 
@@ -46,6 +46,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xStrikea&show_icons=true&theme=tokyonight&hide=issues" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xStrikea&layout=compact&theme=tokyonight" height="180px"/>
+  ![GitHub Snake animation](https://github.com/xStrikea/xStrikea/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ---
@@ -62,6 +63,3 @@
 </p>
 
 ---
-
-<!-- Optional Snake Animation -->
-<!-- ![GitHub Snake animation](https://github.com/xStrikea/xStrikea/blob/output/github-contribution-grid-snake.svg) -->
