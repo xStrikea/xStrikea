@@ -45,7 +45,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xStrikea&show_icons=true&theme=tokyonight&hide=issues" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xStrikea&layout=compact&theme=tokyonight" height="180px"/>
-  ![GitHub Snake animation](https://github.com/xStrikea/xStrikea/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ---
