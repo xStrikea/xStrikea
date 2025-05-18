@@ -1,5 +1,4 @@
 ![Banner](image/Banner.jpg)
-<h1 align="center">Hi, I'm xStrikea!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Roblox+Developer;Web+UI+Enthusiast;Scripter+%26+Tech+Explorer" />
