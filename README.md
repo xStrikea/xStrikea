@@ -14,7 +14,7 @@
 ## 🚀 About Me
 
 - Passionate about **Roblox game development**, scripting, and UI/UX design  
-- Currently creating tools like **Super Ring Parts** and **Script Playground**
+- Likes **pranks**
 - Exploring HTML, Lua, GSAP, and API integrations
 
 ---
