@@ -35,8 +35,7 @@
 
 | Project            | Description                                             | Status   |
 |--------------------|---------------------------------------------------------|----------|
-| **Super Ring Parts** | Physics-based Roblox tool with GUI control            | ✅ Active |
-| **Godmode** | Makes the player invincible | ✅ Active |
+| **RingX** | Physics-based Roblox tool with GUI control            | ✅ Active |
 
 ---
 
