@@ -36,6 +36,7 @@
 | Project            | Description                                             | Status   |
 |--------------------|---------------------------------------------------------|----------|
 | **RingX** | Physics-based Roblox tool with GUI control            | ✅ Active |
+| **RBLXScout** | Search Roblox account information           | ✅ Active |
 
 ---
 
